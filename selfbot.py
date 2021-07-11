@@ -5,9 +5,7 @@ import subprocess
 
 client = discord.Client()
 
-token = ""
-
-def johnson(cmd):
+def benji(cmd):
     subprocess.call(cmd, shell=True)
 
 @client.event
@@ -46,4 +44,4 @@ async def on_message(message):
                                 except Exception as x:
                                     pass
 
-client.run(token, bot=False)
+client.run("your token", bot=False)
