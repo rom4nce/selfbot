@@ -44,4 +44,4 @@ async def on_message(message):
                                 except Exception as x:
                                     pass
 
-client.run("your token", bot=False)
+client.run("token_here", bot=False)
