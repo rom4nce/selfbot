@@ -15,9 +15,9 @@ async def on_ready():
 
     def ui():
         print()
-        print("benji on top!".center(width))
+        print("romance is dead".center(width))
         print()
-        print("[-] made by benji [-]".center(width))
+        print("[-] made by romance [-]".center(width))
         print("[-] user: {0} [-]".format(client.user).center(width))
         print()
     ui()
