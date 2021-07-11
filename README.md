@@ -1,7 +1,7 @@
 # discord selfbot
 discord selfbot ^_^
 # steps to running
-enter your token where it says "your token" (keep the quotation marks)
+enter your token where it says "token_here" (keep the quotation marks)
 
 change the prefix and/or word to whatever you want it to be
 
